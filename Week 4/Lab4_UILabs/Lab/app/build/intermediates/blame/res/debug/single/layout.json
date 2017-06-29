@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/Joe/Documents/Coursera Courses/UMD Android App Dev/Week 4/Lab4_UILabs/Lab/app/build/intermediates/res/merged/debug/layout/add_todo.xml",
+        "source": "/Users/Joe/Documents/Coursera Courses/UMD Android App Dev/Week 4/Lab4_UILabs/Lab/app/src/main/res/layout/add_todo.xml"
+    },
+    {
+        "merged": "/Users/Joe/Documents/Coursera Courses/UMD Android App Dev/Week 4/Lab4_UILabs/Lab/app/build/intermediates/res/merged/debug/layout/todo_item.xml",
+        "source": "/Users/Joe/Documents/Coursera Courses/UMD Android App Dev/Week 4/Lab4_UILabs/Lab/app/src/main/res/layout/todo_item.xml"
+    },
+    {
+        "merged": "/Users/Joe/Documents/Coursera Courses/UMD Android App Dev/Week 4/Lab4_UILabs/Lab/app/build/intermediates/res/merged/debug/layout/footer_view.xml",
+        "source": "/Users/Joe/Documents/Coursera Courses/UMD Android App Dev/Week 4/Lab4_UILabs/Lab/app/src/main/res/layout/footer_view.xml"
+    }
+]

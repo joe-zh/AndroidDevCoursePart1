@@ -1,0 +1,4 @@
+#Sun Jun 25 18:52:10 PDT 2017
+base.0=/Users/Joe/Documents/Coursera Courses/UMD Android App Dev/Week 3/Permissions/PermissionsProject/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/Joe/Documents/Coursera Courses/UMD Android App Dev/Week 3/Permissions/PermissionsProject/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

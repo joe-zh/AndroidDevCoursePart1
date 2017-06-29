@@ -1,0 +1,4 @@
+#Tue Jun 20 00:29:29 PDT 2017
+base.0=/Users/Joe/Documents/Coursera Courses/UMD Android App Dev/Week 3/Fragments/Lab3c_FragmentsLab/FragmentLab/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/Joe/Documents/Coursera Courses/UMD Android App Dev/Week 3/Fragments/Lab3c_FragmentsLab/FragmentLab/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
